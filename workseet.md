@@ -6,25 +6,23 @@
 
 # Workshop 
 
-## How to create gif? 
+## How to create gif (terminal method)? 
 
-1. Download [the package](https://share.weiyun.com/4e6e4205774add9bdea33c0e4378d0e5) and save it to you desktop. 
+1. Download this [demo package](https://share.weiyun.com/4e6e4205774add9bdea33c0e4378d0e5) and save it to you _desktop_. 
 
-2. Then install [homebrew](https://brew.sh/).
-
-    You could paste the flowing line at a Terminal prompt.
+2. Then install [homebrew](https://brew.sh/). You could paste the flowing line at a Terminal prompt.
     
         /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-3. Install [ImageMagick](https://www.imagemagick.org/script/index.php).
-
-    You can use command line to install : `brew install ImageMagick`, or install the package directly from [this link](https://www.imagemagick.org/script/download.php).
+3. Install [ImageMagick](https://www.imagemagick.org/script/index.php). You can use command line to install : `brew install ImageMagick`, or install the package directly from [this link](https://www.imagemagick.org/script/download.php).
     
 
 4. Usage:
     
     
         convert *.png gif-layers.gif
+        
+      Combines every .png file and creates `gif-layers.gif`.
 
 
 ## Coverter (without too much code)
@@ -33,7 +31,7 @@
 
     * **Tesseract OCR**
   
-        brew install tesseract --all-languages
+        `brew install tesseract --all-languages`
 
         Or install without `--all-languages` and [install them manually as needed](http://blog.philippklaus.de/2011/01/chinese-ocr/).
 
