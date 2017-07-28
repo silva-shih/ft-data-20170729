@@ -48,7 +48,7 @@
         This creates `output.txt`.
 
 
-    * **Or you can simply use [Tesseract's online converter](Tesseract)**.
+    * **Or you can simply use [Tesseract's online converter](http://tesseract.projectnaptha.com/)**.
 
 2. Pdf to txt. 
 
