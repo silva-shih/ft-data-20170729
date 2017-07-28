@@ -17,11 +17,13 @@
 3. Install [ImageMagick](https://www.imagemagick.org/script/index.php). You can use command line to install : `brew install ImageMagick`, or install the package directly from [this link](https://www.imagemagick.org/script/download.php).
     
 4. Usage:
-        
-       convert *.png gif-layers.gif
-        
-      This Combines every .png file and creates `gif-layers.gif`.
-      
+
+    This Combines every .png file and creates `gif-layers.gif`.
+
+        convert *.png gif-layers.gif
+    
+    This slows down the gif.
+
         convert *.png -set delay 50 gif-layers-slow.gif
 
 ## Coverter (without too much code)
