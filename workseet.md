@@ -39,7 +39,7 @@
 
         It's better the input image is a grayscale `.tif` and fairly large. ~2000*500 works very well.
 
-            convert ocr.png -resize 400% -type Grayscale ocr.tif
+            convert ocr.jpg -resize 400% -type Grayscale ocr.tif
 
         OCR it. The default language is English. Language codes are 3 chars per `man tesseract`.
 
