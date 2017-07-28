@@ -1,8 +1,8 @@
 # Slides
 
-[Morning]()
+[Morning](https://silva-shih.github.io/201707-ft-data/)
 
-[Afternoon]()
+[Afternoon](https://silva-shih.github.io/201707-ft-data-2)
 
 # Workshop 
 
