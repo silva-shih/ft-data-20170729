@@ -51,10 +51,8 @@
 
 2. Pdf to txt. 
 
-    * [google drive](https://www.google.com/drive/)
-    
+    * [google drive](https://www.google.com/drive/)
     * [tabula](http://tabula.technology/)
-    
     * [pdfconverter](https://pdftables.com/)
 
 3. Other data converter: 
