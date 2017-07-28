@@ -8,7 +8,7 @@
 
 ## How to create gif? 
 
-1. Download the package first. 
+1. Download [the package](https://share.weiyun.com/4e6e4205774add9bdea33c0e4378d0e5) and save it to you desktop. 
 
 2. Then install [homebrew](https://brew.sh/).
 
