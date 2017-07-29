@@ -25,6 +25,13 @@
     This slows down the gif.
 
         convert *.png -set delay 50 gif-layers-slow.gif
+        
+     This resizes the gif.
+
+        convert *png -resize 50x50 resize.gif
+        
+                
+        
 
 ## Coverter (without too much code)
 
