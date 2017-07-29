@@ -26,7 +26,7 @@
 
         convert *.png -set delay 50 gif-layers-slow.gif
         
-     This resizes the gif.
+     This resizes the gif. (Usage of [`-resize`](http://www.imagemagick.org/Usage/resize/))
 
         convert *png -resize 50x50 resize.gif
         
