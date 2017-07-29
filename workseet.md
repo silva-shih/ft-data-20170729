@@ -8,7 +8,7 @@
 
 ## How to create gif (terminal method)? 
 
-1. Download this [demo package](https://share.weiyun.com/4e6e4205774add9bdea33c0e4378d0e5) and save it to you _desktop_. 
+1. Download this [demo package](https://share.weiyun.com/245e19184240fec73d5b7f056359b4ab) and save it to you _desktop_. 
 
 2. Then install [homebrew](https://brew.sh/). You could paste the flowing line at a Terminal prompt.
     
