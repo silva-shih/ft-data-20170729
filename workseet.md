@@ -6,7 +6,7 @@
 
 # Workshop 
 
-## How to create gif (terminal method)? 
+## How to create gif? (using Terminal) 
 
 1. Download this [demo package](https://share.weiyun.com/245e19184240fec73d5b7f056359b4ab) and save it to you _desktop_. 
 
