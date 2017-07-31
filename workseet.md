@@ -18,7 +18,7 @@
     
 4. Usage:
 
-    This Combines every .png file and creates `gif-layers.gif`.
+    This combines every .png file and creates `gif-layers.gif`.
 
         convert *.png gif-layers.gif
     
